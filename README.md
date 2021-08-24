@@ -17,6 +17,7 @@
   <img align="center" alt="Vanilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vanilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vanilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="right" alt="Vanilo-CSS" height="200" width="200" src="https://vuadlghtdvjpxvjyjgvh.supabase.in/storage/v1/object/public/delivery/46671579_koqUsmYXRm23fVSjVjRjig_TC0_pt_BR_ffffffff_watermark_share.gif">
 </div>
   
   ## Contate-me
