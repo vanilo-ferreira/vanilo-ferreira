@@ -1,8 +1,10 @@
 ## Olá! Eu sou o Vanilo Ferreira👋
 
-- 🎓 Bacharel em Sistemas de Informação
-- 🔭 Em busca da primeira minha primeira oportunidade como desenvolvedor
-- 🌱 Desenvolvedor Full-Stack em formação...
+- 🎓 Bacharel em Sistemas de Informação <br>
+- 🔭 Em busca da primeira minha primeira oportunidade como desenvolvedor<br>
+- 🌱 Desenvolvedor Full-Stack em formação...<br>
+
+<img   align="center" alt="Vanilo-CSS" height="200" width="200" src="https://vuadlghtdvjpxvjyjgvh.supabase.in/storage/v1/object/public/delivery/46671579_koqUsmYXRm23fVSjVjRjig_TC0_pt_BR_ffffffff_watermark_share.gif"><br>
 
  <div style="text-align: center">
   <a href="https://github.com/vanilo-ferreira">
@@ -17,7 +19,6 @@
   <img align="center" alt="Vanilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vanilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vanilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="right" alt="Vanilo-CSS" height="200" width="200" src="https://vuadlghtdvjpxvjyjgvh.supabase.in/storage/v1/object/public/delivery/46671579_koqUsmYXRm23fVSjVjRjig_TC0_pt_BR_ffffffff_watermark_share.gif">
 </div>
   
   ## Contate-me
@@ -25,9 +26,10 @@
   <a href="https://www.instagram.com/vsf_erreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vanilo-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vanilo.ferreira03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+  </div> 
  
+## 
  <div> 
-    ![Snake animation](https://github.com/vanilo-ferreira/vanilo-ferreira/blob/output/github-contribution-grid-snake.svg)
-  <!div> 
+ <img height="180em"   align="center" src="https://github.com/vanilo-ferreira/vanilo-ferreira/blob/output/github-contribution-grid-snake.svg" /> 
+ </div> 
  
