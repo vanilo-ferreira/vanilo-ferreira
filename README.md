@@ -1,7 +1,5 @@
 ## Olá! Me chamo Vanilo Ferreira👋
 
-<img align-items="center" alt="Vanilo-CSS" height="200" width="200" src="https://vuadlghtdvjpxvjyjgvh.supabase.in/storage/v1/object/public/delivery/46671579_koqUsmYXRm23fVSjVjRjig_TC0_pt_BR_ffffffff_watermark_share.gif"><br>
-
 ## 😉SOBRE MIM
 - 🎓 Bacharel em Sistemas de Informação pela [Universidade Salvador](https://www.unifacs.br/);<br>
 - 🌱 Desenvolvedor Full-Stack formado pela [Cubos Academy](https://cubos.academy/);<br>
