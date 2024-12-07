@@ -1,11 +1,13 @@
 ## Olá! Me chamo Vanilo Ferreira👋
 
-## 😉SOBRE MIM
-- 🎓 Bacharel em Sistemas de Informação pela [Universidade Salvador](https://www.unifacs.br/);<br>
-- 🌱 Desenvolvedor Full-Stack formado pela [Cubos Academy](https://cubos.academy/);<br>
-- 🥰 Apaixonado por Tecnologia, Animais e Forró (das antigas);
-- 📚 Mergulhado no mundo da programação, sempre buscando aprender e absorver o máximo de conhecimento possível de uma área que se reeinventa constantemente;
-- 🔄 Motivado pela possibilidade de transformar a realidade por meio da tecnologia e a gratidão de "receber upgrades" no conhecimento a cada novo projeto desenvolvido.
+## 😉PERFIL
+Sou um profissional apaixonado por tecnologia e desenvolvimento, com experiência em back-end e front-end, além de forte vivência em metodologias ágeis e desenvolvimento de soluções inovadoras. Ao longo da minha trajetória, trabalhei em projetos desafiadores em diversos contextos, desde o desenvolvimento de chatbots e e-commerce até a criação de Workflows utilizando BPMN.
+
+Atualmente, sou Desenvolvedor Front-End Júnior na SouJunior, onde colaboro no desenvolvimento de soluções web utilizando React e continuo aprofundando meus conhecimentos em tecnologias como Typescript, HTML, CSS, Styled Components e Git. Em minha experiência anterior na Fundação para o Desenvolvimento Tecnológico da Engenharia (FDTE), atuei como Desenvolvedor Back-End Júnior, com foco em criação de workflows complexos, testes de software e versionamento de código.
+
+Estou em busca de desafios que me permitam aplicar minha experiência e continuar aprendendo, com foco no crescimento técnico e contribuindo para soluções que impactem positivamente os negócios e usuários.
+
+Principais tecnologias e ferramentas incluem: Node.js, React, HTML, CSS, JavaScript, Next, SQL, PostgreSQL, Typescript, Angular, Versionamento de código (Git, Bitbucket e Github) e Cucumber.
 
  ## 💻Tecnologias
 <div style="display: inline_block; text-align: center"><br>
