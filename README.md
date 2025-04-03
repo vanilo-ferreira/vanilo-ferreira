@@ -34,9 +34,11 @@ Principais tecnologias e ferramentas incluem: Node.js, React, HTML, CSS, JavaScr
 </div>
 
  ## ✔️Commits
- <div> 
- <img height="180em"   align="center" src="https://github.com/vanilo-ferreira/vanilo-ferreira/blob/output/github-contribution-grid-snake.svg" /> 
- </div> 
+ <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanilo-ferreira/vanilo-ferreira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanilo-ferreira/vanilo-ferreira/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanilo-ferreira/vanilo-ferreira/output/github-contribution-grid-snake.svg">
+</picture>
 
  ## 📞Contate-me
 <div> 
